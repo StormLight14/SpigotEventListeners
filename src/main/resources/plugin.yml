@@ -1,0 +1,4 @@
+name: SpigotEventListeners
+version: '${project.version}'
+main: xyz.stormlightcandev.spigoteventlisteners.SpigotEventListeners
+api-version: '1.20'
